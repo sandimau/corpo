@@ -1,2 +1,0 @@
-# corpo
-react app sistemku
